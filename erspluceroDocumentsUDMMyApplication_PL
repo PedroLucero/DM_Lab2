@@ -1,0 +1,68 @@
+[33mcommit 51d21801b2757ba689ca337bf3c10f711e5cb5fd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: PedroLucero <pedroalucero@gmail.com>
+Date:   Fri May 9 20:16:08 2025 -0500
+
+    Adding all files for lab2
+
+:000000 100644 0000000 aa724b7 A	.gitignore
+:000000 100644 0000000 26d3352 A	.idea/.gitignore
+:000000 100644 0000000 1046d98 A	.idea/.name
+:000000 100644 0000000 4a53bee A	.idea/AndroidProjectSystem.xml
+:000000 100644 0000000 7643783 A	.idea/codeStyles/Project.xml
+:000000 100644 0000000 79ee123 A	.idea/codeStyles/codeStyleConfig.xml
+:000000 100644 0000000 b86273d A	.idea/compiler.xml
+:000000 100644 0000000 3d30acf A	.idea/deploymentTargetSelector.xml
+:000000 100644 0000000 639c779 A	.idea/gradle.xml
+:000000 100644 0000000 7061a0d A	.idea/inspectionProfiles/Project_Default.xml
+:000000 100644 0000000 c224ad5 A	.idea/kotlinc.xml
+:000000 100644 0000000 f8051a6 A	.idea/migrations.xml
+:000000 100644 0000000 b2c751a A	.idea/misc.xml
+:000000 100644 0000000 16660f1 A	.idea/runConfigurations.xml
+:000000 100644 0000000 42afabf A	app/.gitignore
+:000000 100644 0000000 a2d4e7a A	app/build.gradle.kts
+:000000 100644 0000000 481bb43 A	app/proguard-rules.pro
+:000000 100644 0000000 e9283cf A	app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt
+:000000 100644 0000000 dc3b837 A	app/src/main/AndroidManifest.xml
+:000000 100644 0000000 599ff7f A	app/src/main/java/com/example/myapplication/MainActivity.kt
+:000000 100644 0000000 933c5bf A	app/src/main/java/com/example/myapplication/MainActivity2.kt
+:000000 100644 0000000 1ce3e5d A	app/src/main/java/com/example/myapplication/ui/theme/Color.kt
+:000000 100644 0000000 174f73f A	app/src/main/java/com/example/myapplication/ui/theme/Theme.kt
+:000000 100644 0000000 64846a0 A	app/src/main/java/com/example/myapplication/ui/theme/Type.kt
+:000000 100644 0000000 07d5da9 A	app/src/main/res/drawable/ic_launcher_background.xml
+:000000 100644 0000000 2b068d1 A	app/src/main/res/drawable/ic_launcher_foreground.xml
+:000000 100644 0000000 bfd4a1b A	app/src/main/res/drawable/img.jpg
+:000000 100644 0000000 6f3b755 A	app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+:000000 100644 0000000 6f3b755 A	app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+:000000 100644 0000000 c209e78 A	app/src/main/res/mipmap-hdpi/ic_launcher.webp
+:000000 100644 0000000 b2dfe3d A	app/src/main/res/mipmap-hdpi/ic_launcher_round.webp
+:000000 100644 0000000 4f0f1d6 A	app/src/main/res/mipmap-mdpi/ic_launcher.webp
+:000000 100644 0000000 62b611d A	app/src/main/res/mipmap-mdpi/ic_launcher_round.webp
+:000000 100644 0000000 948a307 A	app/src/main/res/mipmap-xhdpi/ic_launcher.webp
+:000000 100644 0000000 1b9a695 A	app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp
+:000000 100644 0000000 28d4b77 A	app/src/main/res/mipmap-xxhdpi/ic_launcher.webp
+:000000 100644 0000000 9287f50 A	app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp
+:000000 100644 0000000 aa7d642 A	app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp
+:000000 100644 0000000 9126ae3 A	app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp
+:000000 100644 0000000 f8c6127 A	app/src/main/res/values/colors.xml
+:000000 100644 0000000 176b681 A	app/src/main/res/values/strings.xml
+:000000 100644 0000000 e48770a A	app/src/main/res/values/themes.xml
+:000000 100644 0000000 4df9255 A	app/src/main/res/xml/backup_rules.xml
+:000000 100644 0000000 9ee9997 A	app/src/main/res/xml/data_extraction_rules.xml
+:000000 100644 0000000 e500fb8 A	app/src/test/java/com/example/myapplication/ExampleUnitTest.kt
+:000000 100644 0000000 952b930 A	build.gradle.kts
+:000000 100644 0000000 20e2a01 A	gradle.properties
+:000000 100644 0000000 6313c8f A	gradle/libs.versions.toml
+:000000 100644 0000000 e708b1c A	gradle/wrapper/gradle-wrapper.jar
+:000000 100644 0000000 4b48b68 A	gradle/wrapper/gradle-wrapper.properties
+:000000 100644 0000000 4f906e0 A	gradlew
+:000000 100644 0000000 107acd3 A	gradlew.bat
+:000000 100644 0000000 0fa0095 A	settings.gradle.kts
+
+[33mcommit 09997fdf7d2c6260134c3aeb8e10b1aee33937dd[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Pedro A. Lucero <41306883+PedroLucero@users.noreply.github.com>
+Date:   Fri May 9 20:13:40 2025 -0500
+
+    Initial commit
+
+:000000 100644 0000000 fb02407 A	LICENSE
+:000000 100644 0000000 acf37c2 A	README.md
